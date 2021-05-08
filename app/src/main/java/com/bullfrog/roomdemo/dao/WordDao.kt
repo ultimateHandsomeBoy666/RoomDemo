@@ -1,4 +1,4 @@
-package com.bullfrog.roomdemo
+package com.bullfrog.roomdemo.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
